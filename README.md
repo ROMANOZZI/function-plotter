@@ -6,10 +6,8 @@ function plotter is a Python program that use to plot given formula on agiven ra
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries.
 
-```bash
-pip install numpy
-pip install matplotlib
-pip install tkinter
+```CLI
+pip install -r requirements.txt
 ```
 
 ## operation
@@ -17,9 +15,8 @@ pip install tkinter
 ![alt text](https://github.com/ROMANOZZI/function-plotter/blob/master/formula%20op1.png?raw=true)
 ![alt text](https://github.com/ROMANOZZI/function-plotter/blob/master/formula%20op2.png?raw=true)
 
-
-
 ## Wrong examples
+
 ![alt text](https://github.com/ROMANOZZI/function-plotter/blob/master/Range%20error.png?raw=true)
 ![alt text](https://github.com/ROMANOZZI/function-plotter/blob/master/Range%202.png?raw=true)
 ![alt text](https://github.com/ROMANOZZI/function-plotter/blob/master/Range%203.png?raw=true)
